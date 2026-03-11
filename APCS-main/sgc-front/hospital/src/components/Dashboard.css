@@ -1,0 +1,19 @@
+.dashboard-page {
+  padding-top: 20px; /* adds margin at top */
+}
+
+.dashboard-content {
+  display: flex;
+  gap: 20px; /* space between list and map */
+}
+
+.dashboard-list {
+  flex: 1;
+}
+
+.dashboard-map {
+  flex: 1;
+  min-height: 450px; /* increase map height */
+  max-height: 500px; /* optional */
+  border-radius: 15px;
+}

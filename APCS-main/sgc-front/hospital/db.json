@@ -1,0 +1,11 @@
+{
+  "hospitals": [
+    {
+      "id": 1,
+      "username": "hospital1",
+      "password": "hospital123",
+      "name": "Apollo Hospital",
+      "location": "Hyderabad"
+    }
+  ]
+}
