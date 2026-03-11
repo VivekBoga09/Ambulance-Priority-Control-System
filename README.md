@@ -1,4 +1,4 @@
-# Smart Ambulance Green Corridor System 🚑
+# Ambulance Priority Control System 🚑
 
 A full-stack web application designed to create **smart green corridors for ambulances** by prioritizing emergency vehicles at traffic intersections. The system helps reduce ambulance travel time by dynamically controlling traffic signals during emergencies.
 
